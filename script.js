@@ -1,3 +1,9 @@
+
+/* --------- WARNING --------- */
+
+// The content in this file is dangerous to browse, especially without pills for headache
+// Enter on your own discretion
+
     const INPUTS  = document.querySelectorAll("input"); // GLOBAL VAR/CONST
     let isEnded = false; // GLOBAL VAR/CONST
 INPUTS.forEach(inp => {
